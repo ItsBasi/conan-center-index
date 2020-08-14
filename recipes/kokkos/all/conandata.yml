@@ -1,0 +1,4 @@
+sources:
+  "3.1.01":
+    url: "https://github.com/kokkos/kokkos/archive/3.1.01.tar.gz"
+    sha256: "ff5024ebe8570887d00246e2793667e0d796b08c77a8227fe271127d36eec9dd"
